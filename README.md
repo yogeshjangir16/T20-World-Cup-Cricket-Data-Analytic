@@ -70,3 +70,19 @@ This project analyzes real-world data from the T20 World Cup 2022 to evaluate an
    pip install pandas brightdata
 3. Run the data cleaning and transformation scripts in Jupyter Notebook.
 4. Load the CSV files into Power BI and explore the dashboards.
+
+## Future Improvements  
+- **Integration of Machine Learning Models**: Incorporate predictive analytics to forecast player performance in future tournaments.  
+- **Enhanced Visualization**: Add more advanced and interactive visuals using Power BI features like bookmarks and drill-throughs.  
+- **Dynamic Data Updates**: Automate the data extraction and dashboard updates to reflect live matches and player stats.  
+- **Expand Scope**: Include additional formats like ODIs and Test cricket for broader analytics.  
+- **User-Friendly Web Application**: Develop a web-based interface for easier access and exploration of the dashboards.
+
+---
+
+## Contact  
+For questions, feedback, or collaboration opportunities, feel free to reach out:  
+- **Email**: [yogeshjangir2080@gmail.com](mailto: yogeshjangir2080@gmail.com)  
+- **GitHub**: [Yogesh Jangir GitHub Profile](https://github.com/yogeshjangir16)  
+
+---

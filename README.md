@@ -82,7 +82,8 @@ This project analyzes real-world data from the T20 World Cup 2022 to evaluate an
 
 ## Contact  
 For questions, feedback, or collaboration opportunities, feel free to reach out:  
-- **Email**: [yogeshjangir2080@gmail.com](mailto: yogeshjangir2080@gmail.com)  
-- **GitHub**: [Yogesh Jangir GitHub Profile](https://github.com/yogeshjangir16)  
+
+- **Email**: [yogeshjangir2080@gmail.com](mailto:yogeshjangir2080@gmail.com)  
+- **GitHub**: [Yogesh Jangir GitHub Profile](https://github.com/YogeshJangir)  
 
 ---
